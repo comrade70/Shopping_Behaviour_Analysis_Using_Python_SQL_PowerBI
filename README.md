@@ -8,7 +8,7 @@
 <h2 style="color:#1f4fd8;">Business Problem Statement</h2>
 
 <p>
-A leading retail company seeks to gain deeper insight into its customers’ shopping behavior in order to improve 
+A leading retail company seeks to gain deeper insight into its customers’ shopping behaviour in order to improve 
 <strong>sales performance</strong>, <strong>customer satisfaction</strong>, and build 
 <strong>long-term customer loyalty</strong>.
 </p>
@@ -37,7 +37,7 @@ They are particularly interested in identifying the key factors that influence c
 <hr style="border:1px solid #1f4fd8;">
 
 <h3 style="color:#1f4fd8;">
-Task: Analysing the company’s consumer behavior dataset to answer the following overarching business question
+Task: Analysing the company’s consumer behaviour dataset to answer the following overarching business question
 </h3>
 
 <blockquote style="background-color:white; border-left:4px solid #1f4fd8; padding:12px; color:black;">
@@ -51,7 +51,7 @@ Task: Analysing the company’s consumer behavior dataset to answer the followin
 <ol>
 
 <li>
-<strong>Data Preparation & Modeling (Python)</strong><br>
+<strong>Data Preparation & Modelling (Python)</strong><br>
 Clean, preprocess, and transform the raw consumer dataset to ensure accuracy and readiness for analysis.
 </li>
 
@@ -66,7 +66,7 @@ Structure the data, simulate business transactions, and execute analytical queri
 
 <li>
 <strong>Visualisation & Insights (Power BI)</strong><br>
-Develop an interactive dashboard that highlights key trends and behavioral patterns, enabling stakeholders to make data-driven decisions.
+Develop an interactive dashboard that highlights key trends and behavioural patterns, enabling stakeholders to make data-driven decisions.
 </li>
 
 <br>
